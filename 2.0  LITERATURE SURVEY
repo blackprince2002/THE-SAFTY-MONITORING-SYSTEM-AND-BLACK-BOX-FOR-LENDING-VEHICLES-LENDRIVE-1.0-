@@ -1,0 +1,11 @@
+The safety monitoring system and black box for lending vehicles is an advanced solution that comprehensively analyses various driving situations, 
+integrating both hardware and software components to provide relevant information and recommend appropriate actions. In today's technology-driven world, we witness the emergence of diverse vehicle monitoring systems, 
+each designed to enhance safety and address the challenges.
+While numerous vehicle safety monitoring systems available on the market concentrate on mitigating one or two particular types of accidents, 
+our project strives to offer a versatile safety solution that enhances safety in diverse situations. It also promotes responsible driving by sending SMS commands to the user, guiding them on appropriate driving practices.
+One standout feature of our system is the fingerprint recognition system, which offers numerous advantages to vehicle owners. 
+Particularly tailored for lending vehicles, it prevents unauthorized use by individuals other than the designated driver. Additionally, it can detect if the driver used alcohol. In case of system errors or emergencies, 
+authorized users can use the fingerprint system to deactivate the system.
+Moreover, the real-time data collected by the GSM module is sent as SMS for the owner, which can prove invaluable for accident investigations and determining the root causes of accidents.
+We also have plans to integrate a camera module using a Raspberry Pi 2040 microcontroller to record events, further enhancing the system's capabilities.
+By continually improving and expanding our system's features, we aim to create a comprehensive and adaptable security solution that sets a new standard in vehicle safety.
