@@ -1,0 +1,46 @@
+In today’s world as the population increases day by day the number of vehicles also increases on the road and highways. This results in accident that leads to the traffic jams and people do not get the help instantaneously.
+Road accidents constitute a major part of the accident deaths all over the world. This takes a toll on the property as well as causes human life loss because of unavailability of immediate safety facilities.
+Nowadays, most of the road accidents happen due to rain, sudden fires, etc. And the main reason for these accidents is drunk driving.
+Science is making amazing advances to provide a huge number of advanced cars in this modern world. The cars are advanced than before, and the speed is also more. 
+There is a need to go with devices which can monitor continuously the different parameters of the car. 
+The design will record all the parameters in case of accidents and which will help us to prevent such accidents in future to the maximum extent. 
+This project is developed to get informational data like engine temperature, level of alcohol, etc. reform the data about motor vehicle accident investigation. 
+This will also be alert about accident by using GSM and GPS technologies. The key features of this project include sending alerts, engine temperature detection, alcohol detection, and GPS location of the car.
+Using GSM technology, the current information about the car can be delivered to the designated mobiles.
+Our Safety Monitoring System And Black Box design a system that can alert the vehicle owner SMS as soon as any signs of accident or may lead to an accident are detected. 
+This messages can be considered as the evidence when any accident occurs.
+
+1.1 Problem Addressed
+The lack of a complete safety monitoring system and black box solution is a serious problem for lending vehicles. There are various issues with vehicle safety, accountability, 
+and effective management that are brought up by the lack of such a system.
+Safety Assurance:
+Without a dedicated safety monitoring system, lending vehicles lack a reliable means to continuously assess their operational safety. Due to this oversight gap, there is a higher chance that accidents,
+mechanical problems, and other safety-related concerns will go unreported until they become more serious issues.
+Liability and Accountability:
+Determining who is responsible in the event of an accident or disagreement involving a borrowed vehicle can be a difficult and contentious process.
+An accurate determination of responsibility can be made with the support of a black box that collects data about the vehicle and the actions of the driver. This can help to avoid legal issues.
+Driving Under the Influence:
+One of the most alarming safety issues is the possibility that borrowers will drive hired vehicles while intoxicated. Because of this, there is an immediate danger to everyone using the roads, including the driver.
+Addressing these challenges necessitates the development and implementation of a robust Safety Monitoring System and Black Box specifically tailored for lending vehicles.
+
+1.2 Background Contexts
+With the modernization of society, the focus on driving attentively has lessened, resulting in a multitude of lives being lost globally. 
+This has become a very main cause of death for people of all ages. Not only are drivers in perilous situations, but pedestrians are also at big risk.
+Sri Lanka, for example, loses a staggering number of lives each year with over 20,000 vehicular incidents transpiring, leading to 2,500 or more fatalities annually. 
+Nearly 1.3 million individuals meet their demise due to road accidents worldwide. This statistic highlights the dangers of being on the road. In low income and Asian countries, there is a greater incidence of fatal accidents.
+Young individuals aged 5-25 account for 73% of the casualties.
+Humanity is left with various impacts from tragic occurrences that commonly take the lives of younger individuals.
+Most of the world's lost lives are from these types of incidents, causing a heavy toll on low-income countries and their dependence on younger, working individuals. 
+The country's overall gross domestic income takes a hit, as well as the financial stability of affected families.
+These traffic-related mishaps also require a significant chunk, over 3%, of low-income countries' gross domestic income to be allocated towards medical costs and other associated expenses.
+because of vehicle accidents These countries experience significant impact on their economic, social, and mental wellbeing, resulting in negative consequences.
+Introducing a vehicle safety monitoring system is crucial in our joint mission to reduce the frequency of road accidents. Though preventing all these incidents is impossible, 
+we're determined to utilize different solutions to mitigate diverse types of accidents. Our measures revolve around decreasing the likelihood of occurrences in different settings,
+as accidents can happen at any given moment. Critical instructions are provided to avoid potential collisions by the security system before the driver is conscious of the problem, which is quite helpful.
+Furthermore, the innovative system not only shows users essential information in real-time, but it also stores it for future reference, which is very useful for accident investigations. 
+The primary purpose of this system is to allow vehicle lending with the assurance that the vehicle is secure, to provide insight into the driver's character, and to deter improper use.
+
+1.3 Tasks
+•	Alcohol Sensor, Flame Sensor, Rain Sensor, and Temperature Sensor operate based on environment and weather data.
+•	Fingerprint sensor permits access to authenticated and authorized users only.
+•	GSM module delivers real-time information via SMS during critical moments.
